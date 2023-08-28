@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @emanoiel
-- 👀 I’m interested in video games
-- 🌱 I’m currently learning codeing
+
