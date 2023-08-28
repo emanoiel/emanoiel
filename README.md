@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @emanoiel
-- 👀 I’m interested in idk
-- 🌱 I’m currently learning idk
-
+- 👀 I’m interested in video games
+- 🌱 I’m currently learning codeing
